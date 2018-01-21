@@ -18,6 +18,7 @@
   "homepage": "https://github.com/andradediego/travel-site#readme",
   "dependencies": {
     "jquery": "^3.3.1",
+    "jquery-smooth-scroll": "^2.2.0",
     "normalize.css": "^7.0.0",
     "waypoints": "^4.0.1"
   },
